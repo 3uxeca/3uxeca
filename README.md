@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<a href="https://3uxeca.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/WEB SITE-E3DAFB?style=plastic&logo=Vercel&logoColor=000000"/></a>
+
 <!--
 **3uxeca/3uxeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
