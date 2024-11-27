@@ -1,13 +1,13 @@
 <div align="center">
   
-### Hi there 👋
-I'm ✨Jihye Sa✨ and wish to be a best Front-end Developer in the future.<br/>
-This site is where I save my studies and works.
-<br/><br/>
+### 안녕하세요! 👋
+언제나 소통🗣️을 지향하며 전체 프로세스를 들여다볼 줄 아는👀<br/>
+웹 프론트엔드 개발자 ✨사 지 혜✨ 입니다.<br/>
+<br/>
 
 ##
 
-### Tech Stacks 🔥
+### 기술 스택 🔥
 #### Front-end
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
@@ -57,11 +57,11 @@ This site is where I save my studies and works.
 
 
 
-<br/><br/>
+<br/>
 
 ##
 
-### About Me 🙋🏻‍♀️
+### 저에 대해 더 알고 싶으신가요? 🙋🏻‍♀️
 <a href="https://3uxeca.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=social&logo=Vercel&logoColor=000000"/>
 </a>
