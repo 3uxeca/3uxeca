@@ -1,8 +1,8 @@
 <div align="center">
   
 ## Hi there 👋
-I'm Jihye Sa and wish to be a best Front-end Developer inthe future.
-THis site is where I save my studies and works.
+I'm Jihye Sa and wish to be a best Front-end Developer inthe future.#
+This site is where I save my studies and works.
 
 ## Tech Stacks 🔥
 <a href="https://3uxeca.vercel.app/" target="_blank">
