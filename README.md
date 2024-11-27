@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Homepage-000?style=social&logo=Vercel&logoColor=000000"/>
 </a>
 &nbsp;
-<a href="https://docs.google.com/viewer?url=https://drive.google.com/file/d/1C3VGxWRYZwkDb6PSYDLityWabJHcx90M/view?usp=sharing?raw=True" target="_blank">
+<a href="https://drive.google.com/file/d/1C3VGxWRYZwkDb6PSYDLityWabJHcx90M/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio PDF-4285F4?style=social&logo=Google Drive&logoColor=4285F4"/>
 </a>
 &nbsp;
@@ -87,6 +87,7 @@
 </div>
 
 <!--
+<a href="https://docs.google.com/viewer?url=https://drive.google.com/file/d/1C3VGxWRYZwkDb6PSYDLityWabJHcx90M/view?usp=sharing?raw=True" target="_blank">
 **3uxeca/3uxeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
