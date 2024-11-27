@@ -2,6 +2,7 @@
 
 <a href="https://3uxeca.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/WEB SITE-E3DAFB?style=plastic&logo=Vercel&logoColor=000000"/></a>
+<a href="https://www.instagram.com/3uxeca?igsh=MXY1ZTBoemg4NW1mNA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 
 <!--
 **3uxeca/3uxeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
